@@ -4,4 +4,4 @@
 ## Мои навыки
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![1C-bitrix](https://img.shields.io/badge/1C_bitrix?style=for-the-badge&logo=php&logoColor=whit)
+![1C-bitrix](https://img.shields.io/badge/php?style=for-the-badge&logo=php&logoColor=whit)
